@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "Calamity",
+    "description": "A simple Calamity-based mod for your browser.",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "TsarUnion"
     },
     "icons":
     {
@@ -12,7 +12,7 @@
     "manifest_version": 3,
     "mod":
     {
-        "license": "license.txt",
+        "license": "None.",
         "payload":
         {
             "background_music":
